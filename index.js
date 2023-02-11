@@ -1,1 +1,1 @@
-console.log('work2')
+console.log('work')
