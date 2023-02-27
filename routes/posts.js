@@ -11,4 +11,6 @@ router.get("/:id", (req, res) => {
   res.json({ id: "1", text: "first post" });
 });
 
+
+
 module.exports = router; // export route
